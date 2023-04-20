@@ -4,7 +4,8 @@
 Now in the vagrant file:
 - change app.vm.box to us "ubuntu/bionic64
 - And change database.vm.box to use "ubuntu/bionic64" (the datablase might be saved as db like mine was)
-It should look like this once saved
+It should look like this once saved:
+
 ![img.png](img.png)
 
 Do vagrant up
